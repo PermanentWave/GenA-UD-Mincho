@@ -32,7 +32,7 @@ PC、スマートフォン等、他の端末でも使用できますが、これ
 御琥祢屋様へのご連絡はお控えください。  
 
 # 謝辞
-モリサワ BIZ UD明朝/ゴシックを配布してくださっている[Google-Fonts](https://github.com/googlefonts/morisawa-biz-ud-gothic)様  
+モリサワ BIZ UD明朝/ゴシックを配布してくださっている[Google-Fonts](https://github.com/googlefonts/)様  
 vmtx修正ソフトウェア[o_vmtx-fix](https://okoneya.jp/font/knowhow.html)を配布、fontforgeで源ノ明朝/源ノ角ゴシックを改変する方法について解説してくださっている[御琥祢屋](https://okoneya.jp/)様  
 各グリフの表示を確認する電子書籍を公開してくださっている[wakufactory](https://wakufactory.jp/densho/font/mojitest.html)様  
 この場をお借りし、感謝申し上げます。
@@ -41,3 +41,4 @@ vmtx修正ソフトウェア[o_vmtx-fix](https://okoneya.jp/font/knowhow.html)�
 > [源亜こぶり明朝作成の備忘録](https://permanentwave.github.io/2021/07/24/2021-07-24-01/)  
 > [fontforge Module attributes](https://fontforge.org/docs/scripting/python/fontforge.html)  
 > [OS/2 — OS/2 and Windows Metrics Table](https://docs.microsoft.com/en-us/typography/opentype/spec/os2)  
+> [Unicode Vertical Orientation Revision 17](https://unicode.org/Public/vertical/revision-17/VerticalOrientation-17.html)
