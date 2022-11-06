@@ -28,8 +28,7 @@ PC、スマートフォン等、他の端末でも使用できますが、これ
 その他利用に関する免責条項の詳細は、[SIL Open Font License 1.1](https://github.com/PermanentWave/GenA-Koburi-Mincho/blob/main/LICENSE_OFL.txt)をご確認ください。\([日本語サイトリンク](https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html)\)  
 本フォントを使用した事により発生した事象に対し、フォント作成者は何の責任も持ちません。自己責任でお使いください。  
 「予約されたフォント名」は日本語表記では「源亜」、アルファベット表記では「GenA」とします。  
-本フォントに問題がある場合はGithubのIssueまたは[Twitter](https://twitter.com/O_PermanentWave)に連絡をお願い致します。
-御琥祢屋様へのご連絡はお控えください。  
+本フォントに問題がある場合はGithubのIssueまたは[Twitter](https://twitter.com/O_PermanentWave)に連絡をお願い致します。  
 
 # 謝辞
 モリサワ BIZ UD明朝/ゴシックを配布してくださっている[Google-Fonts](https://github.com/googlefonts/)様  
